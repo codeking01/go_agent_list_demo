@@ -1,0 +1,13 @@
+
+postgres:
+  host: "192.168.198.130"
+  port: 5432
+  user: "postgres"
+  password: "postgreSQL"
+  database: "test_db"
+
+redis:
+  host: "192.168.198.130"
+  port: 6379
+  password: "" # 如果没有密码，留空
+  db: 0
